@@ -1,0 +1,9 @@
+[package]
+name = "Rial_o_fake"
+version = "6.6.6"
+authors = ["Haft"]
+edition = "2021"
+
+[dependencies]
+colored = "2"
+rand = "0.8.4"
